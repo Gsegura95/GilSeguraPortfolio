@@ -21,7 +21,7 @@ gilbertosegura07
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: none
-[instagram]: https://www.instagram.com/meyo.23
+[instagram]: https://www.instagram.com/meyo.23/
 [linkedin]: www.linkedin.com/in/gilbertosegura07
 
 
