@@ -17,5 +17,7 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[linkedin]: www.linkedin.com/in/gilberto-segura-30a5a7207
+[linkedin]:www.linkedin.com/in/gilberto-segura-30a5a7207
+
+
 
