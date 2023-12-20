@@ -1,4 +1,6 @@
-<h1>Hi, I'm Gil, an <a href="https://linkedin.com/gilberto-segura-30a5a7207">IT Professional</a>☺</h1>
+<h1>Hi, I'm Gil, an <a href="www.linkedin.com/in/gilbertosegura07
+
+">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
