@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Gsegura95/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Gsegura95/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Deploying Active Directory and Creating User](https://github.com/Gsegura95/Active-Directory-User)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 - <b>VPN</b>
   - [VPN Setup and Usage (Proton VPN)](https://github.com/Gsegura95/VPN)
